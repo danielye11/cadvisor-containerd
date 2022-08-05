@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Attach remote",
+        "type": "go",
+        "request": "attach",
+        "mode": "remote",
+        "port": 5005,
+        "host": "127.0.0.1",
+        "apiVersion": 2,
+        "cwd": "/google/src/cloud/yedaniel/debugdemo/google3/go/g3doc/dev/debugging/demo",
+      }
+    ]
+  }
